@@ -1,0 +1,7 @@
+Normalizasyon, verileri 0 ve 1 arasında bir ölçeğe dönüştürürken, standardizasyon verileri ortalaması 0 ve standart sapması 1 olacak şekilde dönüştürür.
+
+Normalizasyon, verilerin ölçeğini değiştirmeyi amaçlarken, standardizasyon verilerin dağılımını değiştirmeyi amaçlar.
+
+Normalizasyon, özellikle uzaklık tabanlı algoritmalar için yararlıdır.
+
+Standardizasyon, özellikle gradyan tabanlı algoritmalar için yararlıdır.
